@@ -1,4 +1,4 @@
-# CTF and Wargame Challanges
+# CTF and Wargame Challenges
 
 A collection of binaries I wrote myself for playing with reverse engineering tools.
 
